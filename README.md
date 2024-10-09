@@ -25,13 +25,13 @@ This Recipe Application allows users to explore, search, and store a variety of 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/recipe-app.git
+   git clone https://github.com/replyre/RecipieToday.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd recipe-app
+   cd RecipieToday
    ```
 
 3. Install dependencies:
@@ -40,11 +40,6 @@ This Recipe Application allows users to explore, search, and store a variety of 
    npm install
    ```
 
-4. Create a `.env` file and add your MealDB API key:
-
-   ```bash
-   REACT_APP_MEALDB_API_KEY=your-api-key
-   ```
 
 5. Start the development server:
 
