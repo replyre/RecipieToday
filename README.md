@@ -65,6 +65,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 - [TheMealDB](https://www.themealdb.com/) for providing recipe data.
 
----
-
-You can customize this template further based on specific details of your project!
