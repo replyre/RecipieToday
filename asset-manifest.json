@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RecipieToday/static/css/main.5fe75c2c.css",
+    "main.js": "/RecipieToday/static/js/main.82acb627.js",
+    "index.html": "/RecipieToday/index.html",
+    "main.5fe75c2c.css.map": "/RecipieToday/static/css/main.5fe75c2c.css.map",
+    "main.82acb627.js.map": "/RecipieToday/static/js/main.82acb627.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fe75c2c.css",
+    "static/js/main.82acb627.js"
+  ]
+}
